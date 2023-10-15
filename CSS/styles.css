@@ -67,21 +67,27 @@ body {
   color: #404bbf;
 }
 
-.order-btn:hover,
-.order-btn:focus {
-  background-color: #404bbf;
-  color: #fff;
-}
-
-.hero {
-  background-color: #2e2f42;
-  color: #fff;
+.main-title {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+}
+
+.hero {
+  background-color: #2e2f42;
+  color: #fff;
+}
+
+.order-btn {
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+  background-color: #4d5ae5;
+  color: #fff;
 }
 
 .benefits-list-header {
