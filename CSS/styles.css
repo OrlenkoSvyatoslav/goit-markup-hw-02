@@ -23,6 +23,12 @@ button {
   color: #f4f4fd;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
 .logotype {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -70,7 +76,7 @@ button {
 }
 
 .hero {
-  background: #2e2f42;
+  background-color: #2e2f42;
   color: #fff;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -99,7 +105,7 @@ button {
 }
 
 .team-dream-class {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .team-dream-title {
@@ -156,7 +162,7 @@ button {
 }
 
 .team-dream-footer {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .team-dream-footer-text {
