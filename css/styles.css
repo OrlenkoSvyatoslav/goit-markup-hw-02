@@ -82,13 +82,10 @@ body {
 }
 
 .order-btn {
-  display: inline-flex;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  align-items: flex-start;
-  gap: 10px;
   background-color: #4d5ae5;
   color: #ffffff;
 }
@@ -124,7 +121,6 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
