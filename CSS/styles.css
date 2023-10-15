@@ -46,7 +46,7 @@ body {
 
 .menu-link:hover,
 .menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .contacts {
@@ -55,6 +55,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 
 .contacts-item-link {
@@ -63,12 +64,12 @@ body {
 
 .contacts-item-link:hover,
 .contacts-item-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .order-btn:hover,
 .order-btn:focus {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
   color: #fff;
 }
 
